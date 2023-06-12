@@ -9,9 +9,13 @@ The project is developed using the Python programming language. The player is ex
 
 # Installation
 Download or clone the project files into a directory.
+
 Install Python 3.x on your computer if it is not already installed.
+
 Open the command line and navigate to the project directory.
+
 Start the game by running the following command
+
 python spacecraft_game.py
 
 # How to Play
