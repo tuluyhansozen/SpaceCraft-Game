@@ -1,7 +1,7 @@
 # SpaceCraft-Game
 # Project Description
 
-This project is my first major coding project. I was not allowed to use functions, and I ended up mixing everything together. I am sharing it here to demonstrate my progress.
+This project is my first major coding project which completed in 2020. I was not allowed to use functions, and I ended up mixing everything together. I am sharing it here to demonstrate my progress.
 
 This project is a spaceship game. The player controls a spaceship and navigates through a field of stars, aiming to destroy enemy stars by shooting at them. The objective of the player is to destroy all enemy stars and complete the game. At the end of the game, the player's score is calculated and displayed on the screen.
 
